@@ -27,10 +27,13 @@ Me chamo Ruy, tenho 36 anos e atualmente trabalho com C#, Xamarin.Forms e ASP.NE
 <br />
 ![image](https://img.shields.io/badge/VS2019-7208bf?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![image](https://img.shields.io/badge/VSCode-2d2d2d?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-121111?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/Git-e84413?style=for-the-badge&logo=git&logoColor=white)
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuyArmando&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuyArmando&show_icons=true&theme=dark)
+
 
 ### 📫 Contato
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruy-armando-da-silva-818b2048/)
