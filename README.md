@@ -36,6 +36,6 @@ Me chamo Ruy, tenho 36 anos e atualmente trabalho com C#, Xamarin.Forms e ASP.NE
 
 
 ### 📫 Contato
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruy-armando-da-silva-818b2048/)
-
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruy-armando-da-silva)
+[![image](https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=ghost)](https://app.rocketseat.com.br/me/ruy-armando-silva)
 
